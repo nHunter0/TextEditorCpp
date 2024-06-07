@@ -27,7 +27,7 @@ NHText is a simple text editor application that features predictive text technol
 
    ```bash
    git clone https://github.com/nhunter0/TextEditorCpp.git
-   cd nhtext
+   cd TextEditorCpp
    ```
 
 2. **Build the Project**:
